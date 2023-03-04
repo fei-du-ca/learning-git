@@ -1,0 +1,1 @@
+A practice to learn git step by step with youtube https://www.youtube.com/watch?v=cX-2k3dt11c&t=600s.
