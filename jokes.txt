@@ -2,3 +2,6 @@ A journalist asked a programmer: what makes bad code?
 no comment
 
 If having a coffee in the morning doesn't wake you up, try deleting a table in a production database isntead.
+
+How many programmers does it take to screw in a lightbulb?
+None, it's a hardware problem.
